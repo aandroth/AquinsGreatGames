@@ -22,10 +22,12 @@
     <Compile Include="Canvas.php" />
     <Compile Include="Dinaki_Adventures.php" />
     <Compile Include="Checkerboard.php" />
+    <Compile Include="Folder.php" />
     <Compile Include="iOS_Pages\iOS_Map.php" />
     <Compile Include="iOS_Pages\iOS_Articles.php" />
     <Compile Include="iOS_Pages\iOS_About.php" />
     <Compile Include="iOS_Pages\iOS_Ask.php" />
+    <Compile Include="iOS_Pages\iOS_Videos_Watching.php" />
     <Compile Include="iOS_Pages\iOS_Videos.php" />
     <Compile Include="iOS_Pages\iOS_Research.php" />
     <Compile Include="iOS_Pages\iOS_Menu.php" />
